@@ -1,0 +1,9 @@
+git log
+git status
+git branch
+git checkout
+git commit --amend
+
+--Отмена--
+git restore - откатить изменения произошедшие с последнего коммита
+git restore --staged - убрать из индекса
