@@ -4,7 +4,7 @@ git branch
 git checkout
 git commit --amend
 git pull origin/ссылка_на_репозиторий <ветка>
-
+git rebase <ветка>
 
 --Отмена--
 git restore - откатить изменения произошедшие с последнего коммита
