@@ -3,6 +3,7 @@ git status
 git branch
 git checkout
 git commit --amend
+git pull origin/ссылка_на_репозиторий <ветка>
 
 --Отмена--
 git restore - откатить изменения произошедшие с последнего коммита
